@@ -6,4 +6,4 @@
 # @File    : hello.py
 # @Software: PyCharm
 def say():
-    print ("hello pip...")
+    print("hello pip...")
